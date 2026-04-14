@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iluzmario/iluzmario/8c8c111b8e4f255468cd34032626ce0777a5a5fb/banner.png" alt="Banner do Perfil" width="100%" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 # 💫 About Me:
 Olá! Sou Luiz Knichalla, estudante de Sistemas de Informação no 6º período, com foco em desenvolvimento de software. Tenho 20 anos, perfil analítico, proativo e empático. Aprendo na prática e consolido conhecimento ensinando outros.🛠️ Habilidades Principais<br>Java (POO)<br>Python<br>JavaScript, HTML, CSS<br>MySQL<br>Desenvolvi uma calculadora científica para web e um bot em Python para automação de jogos, reforçando minha paixão por lógica e eficiência.🚀 Interesses<br>Soluções tech para o mercado imobiliário<br>Bigtechs voltadas inovação e impacto em TI<br>Colaborações e oportunidades em dev!<br>Aberto a projetos, mentorias e contribuições. Vamos conectar?<br>
 
