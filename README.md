@@ -1,9 +1,5 @@
 # 💫 About Me:
 Olá! Sou Luiz Knichalla, estudante de Sistemas de Informação no 6º período, com foco em desenvolvimento de software. Tenho 20 anos, perfil analítico, proativo e empático. Aprendo na prática e consolido conhecimento ensinando outros.🛠️ Habilidades Principais<br>Java (POO)<br>Python<br>JavaScript, HTML, CSS<br>MySQL<br>Desenvolvi uma calculadora científica para web e um bot em Python para automação de jogos, reforçando minha paixão por lógica e eficiência.🚀 Interesses<br>Soluções tech para o mercado imobiliário<br>Bigtechs voltadas inovação e impacto em TI<br>Colaborações e oportunidades em dev!<br>Aberto a projetos, mentorias e contribuições. Vamos conectar?<br>
-<div style="background-image: url('https://github.com/iluzmario/iluzmario/blob/main/banner.png'); padding: 20px; background-size: cover;">
-  <h1>Título sobre o fundo</h1>
-  <p>Conteúdo do seu README...</p>
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luiz_knichalla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-knichalla) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@luiz-mario-knichalla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luizknirruda@gmail.com) 
@@ -19,6 +15,4 @@ Olá! Sou Luiz Knichalla, estudante de Sistemas de Informação no 6º período,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=iluzmario&icon=9&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=iluzmario&icon=9&color=1&)](https://visitcount.itsvg.in)
