@@ -15,4 +15,4 @@ Olá! Sou Luiz Knichalla, estudante de Sistemas de Informação no 6º período,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=iluzmario&icon=9&color=1&)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=iluzmario&icon=9)](https://visitcount.itsvg.in)
